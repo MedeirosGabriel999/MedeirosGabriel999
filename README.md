@@ -156,16 +156,6 @@ const gabriel = {
 
 ---
 
-## 🏆 Conquistas GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medeirosgabriel999&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" />
-</div>
-
-<br/>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=medeirosgabriel999&style=for-the-badge&color=a78bfa&label=VISITANTES" />
 </div>
