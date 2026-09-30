@@ -1,12 +1,12 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Gabriel%20Medeiros&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Automação%20%7C%20IA%20Corporativa&descAlignY=55&descAlign=50&descSize=18&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Gabriel%20Medeiros&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Automacao%20%7C%20IA%20Corporativa&descAlignY=55&descAlign=50&descSize=18&descColor=a78bfa" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Olá%2C+sou+o+Gabriel+👋;Desenvolvedor+Full+Stack;Especialista+em+Automação+e+IA;Construindo+soluções+corporativas+reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Ola%2C+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Especialista+em+Automacao+e+IA;Construindo+solucoes+corporativas+reais)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,16 +35,16 @@
 
 ```typescript
 const gabriel = {
-  cargo:        "Desenvolvedor Full Stack & Arquiteto de Soluções",
-  empresa:      "Space Informática",
-  localização:  "Brasil 🇧🇷",
+  cargo:       "Desenvolvedor Full Stack & Arquiteto de Solucoes",
+  empresa:     "Space Informatica",
+  localizacao: "Brasil 🇧🇷",
   foco: [
-    "Plataformas SaaS B2B escaláveis",
-    "Agentes de IA & Automação inteligente",
+    "Plataformas SaaS B2B escalaveis",
+    "Agentes de IA & Automacao inteligente",
     "Sistemas corporativos de alto desempenho"
   ],
-  filosofia: "Tecnologia só tem valor quando remove o atrito do humano.",
-  atualmente:   "Construindo o futuro das operações corporativas com IA 🚀"
+  filosofia:  "Tecnologia so tem valor quando remove o atrito do humano.",
+  atualmente: "Construindo o futuro das operacoes corporativas com IA 🚀"
 };
 ```
 
@@ -143,7 +143,7 @@ const gabriel = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=medeirosgabriel999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medeirosgabriel999&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="180em"/>
+  <img src="https://streak-stats.demolab.com/?user=medeirosgabriel999&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="180em"/>
 </div>
 
 <br/>
@@ -154,18 +154,12 @@ const gabriel = {
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medeirosgabriel999&bg_color=0D1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
 ---
 
-## 🏆 Conquistas
+## 🏆 Conquistas GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medeirosgabriel999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=medeirosgabriel999&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" />
 </div>
 
 <br/>
